@@ -1,4 +1,4 @@
-# Resoluções 2017
+# Resoluções 2018
 
 
 ## Escrever 12 artigos para o blog (0/12)
