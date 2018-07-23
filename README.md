@@ -22,17 +22,15 @@
 
 
 ## Implementar alterações/novas funcionalidades para o arteparacaneca.com.br (0/12)
-1. Adicionar páginas AMP
-1. Remover plugins JavaScript (jQuery, outdated-ie, galeria, etc) - utilizar apenas CSS (melhor performance em geral)
-1. Implementar OpenSearch
-1. Implementar schema starRating
+1. ok - Adicionar páginas AMP
+1. ok - Remover plugins JavaScript (jQuery, outdated-ie, galeria, etc) - utilizar apenas CSS (melhor performance em geral)
 1. Internacionalização - portar todo o portal para inglês
 1. Internacionalização - portar todo o portal para espanhol
 1. Fazer alterações focadas em acessibilidade
-1. Implementar interação com redes sociais (Facebook, Twitter e G+)
+1. ok - Implementar interação com redes sociais
 1. Oferecer mockups
 1. Ativar newsletters
-1. Fazer as categorias em páginas separadas
+1. ok - Fazer as categorias em páginas separadas
 1. Fazer da index um "mini blog"
 
 -------------------
@@ -52,11 +50,6 @@
 
 
 ## Continuar a criação do jogo SpaceBattle
-
--------------------
-
-
-## Ler 3 livros em inglês (0/3)
 
 -------------------
 
