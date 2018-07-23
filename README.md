@@ -44,7 +44,7 @@
 -------------------
 
 
-## Criar 3 novos projetos (4/3)
+## :heavy_check_mark: Criar 3 novos projetos (3/3)
 1. _Article Saver_ - a personal web extension to keep track of all the articles I want to read or I've already read.
 1. [electron-progressbar](https://github.com/AndersonMamede/electron-progressbar) - an Electron/Node.js module which provides an easy-to-use and highly customizable API to show and control progress bars on Electron applications.
 1. [minimalistic-webextension-boilerplate](https://github.com/AndersonMamede/minimalistic-webextension-boilerplate) - a minimalistic template for building web extensions for Chrome and Firefox.
