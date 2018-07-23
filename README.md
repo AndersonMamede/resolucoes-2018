@@ -38,8 +38,7 @@
 -------------------
 
 
-## Implementar novas funcionalidades (socilitadas) no app LCF/Lembrete de Contas Fácil (0/1)
-1. Relatórios
+## Iniciar o desenvolvimento do aplicativo LCF (Lembrete de Contas Fácil) do zero utilizando Ionic ou tecnologia semelhante (0/1)
 
 -------------------
 
