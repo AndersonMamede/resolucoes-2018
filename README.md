@@ -44,8 +44,11 @@
 -------------------
 
 
-## Criar 3 novos projetos (0/3)
-
+## Criar 3 novos projetos (4/3)
+0. _Article Saver_ - a personal web extension to keep track of all the articles I want to read or I've already read.
+0. [electron-progressbar](https://github.com/AndersonMamede/electron-progressbar) - an Electron/Node.js module which provides an easy-to-use and highly customizable API to show and control progress bars on Electron applications.
+0. [minimalistic-webextension-boilerplate](https://github.com/AndersonMamede/minimalistic-webextension-boilerplate) - a minimalistic template for building web extensions for Chrome and Firefox.
+0. (project in development) _Ultimate Markdown Live Editor, GitHub flavored_ - a web extension which works as a markdown live editor for local and remote files.
 -------------------
 
 
