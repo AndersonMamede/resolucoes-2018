@@ -82,7 +82,7 @@
 
 
 ## Ler 365 artigos
-###### _Assuntos: Business, Carreira, Vida, Tecnologia, Programação
+###### _Assuntos: Business, Carreira, Vida, Tecnologia, Programação_
 ###### _Artigos a serem lidos novamente estão marcados em negrito_
 1. **https://uxdesign.cc/7-rules-driving-the-psychology-behind-great-product-design-9c930050c24d**
 1. https://willianjusten.com.br/https-no-github-pages-com-custom-domain/
